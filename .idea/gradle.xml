@@ -4,15 +4,15 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="distributionType" value="LOCAL" />
         <option name="externalProjectPath" value="$PROJECT_DIR$" />
-        <option name="gradleHome" value="C:/env/gradle" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
             <option value="$PROJECT_DIR$/Hollow-Algorithm" />
             <option value="$PROJECT_DIR$/Hollow-Demo" />
+            <option value="$PROJECT_DIR$/Hollow-OpenCV" />
+            <option value="$PROJECT_DIR$/Hollow-Spring" />
           </set>
         </option>
       </GradleProjectSettings>
